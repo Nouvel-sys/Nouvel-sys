@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">name: adrian jeremy carreon<br>location: calasiao<br>age: currently 18<br>future carreer: Aspiring Game Developer<br>town hall: level 12</p>
+<p data-importer="text" align="left">name: adrian jeremy carreon<br>location: calasiao<br>age: currently 18<br>future carreer: Aspiring Game Developer<br>town hall: level 12<br>hobby: photography<br>system unit: r5 5600/rx 6600<br><br>gusto ko ng rx-7 fd3s</p>
 
 ###
 
