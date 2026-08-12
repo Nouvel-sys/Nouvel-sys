@@ -2,11 +2,11 @@
 
 ###
 
-<img data-importer="image" align="right" height="200" src="https://i.redd.it/xioe51r1i3va1.gif"  />
+<img data-importer="image" align="right" height="200" src="https://64.media.tumblr.com/19eebe996e5994bf4fd714f5afdc4e4b/3607cf511a50e2f1-f7/s400x600/29ab9cbd632ab03bf8f9ef408d8df1069d2f74ed.gif"  />
 
 ###
 
-<p data-importer="text" align="left">Hi, I am Adrian Jeremy Carreon, I am an aspiring Software Developer mainly on Game Developing and Web Developing. <br><br>I am currently learning php, java and mysql database fundamentals hoping to be better than i ever was pertaining to my coding ability.<br><br>Let's Larp guys !</p>
+<p data-importer="text" align="left">Hi, I am Adrian Jeremy Carreon, I am an aspiring Software Developer mainly on Game Developing and Web Developing. <br><br>I am currently learning php, java and mysql database fundamentals hoping to be better than i ever was pertaining to my coding ability.<br><br>I <br>larp larp larp<br>sahur</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">Frontend</h4>
+<h4 data-importer="text" align="left">Programming/Languages</h4>
 
 ###
 
@@ -22,19 +22,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-</div>
-
-###
-
-<h4 data-importer="text" align="left">Backend</h4>
-
-###
-
-<div data-importer="techs" align="left">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
+
+###
+
+<h4 data-importer="text" align="left">Database</h4>
+
+###
+
+<div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
@@ -46,6 +48,10 @@
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
