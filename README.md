@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">About me</h2>
+<h1 data-importer="text" align="left">About me</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">name: adrian jeremy carreon<br>location: calasiao<br>age: currently 18<br>future carreer: Aspiring Game Developer<br>town hall: level 12<br>hobby: photography<br>system unit: r5 5600/rx 6600<br><br>gusto ko ng rx-7 fd3s</p>
+<p data-importer="text" align="left">Hi, I am Adrian Jeremy Carreon, I am an aspiring Software Developer mainly on Game Developing and Web Developing. <br><br>I am currently learning php, java and mysql database fundamentals hoping to be better than i ever was pertaining to my coding ability.<br><br>No, i am not a larper like them</p>
 
 ###
 
@@ -14,14 +14,52 @@
 
 ###
 
+<h4 data-importer="text" align="left">Frontend</h4>
+
+###
+
 <div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+</div>
+
+###
+
+<h4 data-importer="text" align="left">Backend</h4>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<h2 data-importer="text" align="left">Tools</h2>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<h2 data-importer="text" align="left">Editing Softwares</h2>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
 ###
