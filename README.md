@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">Hi, I am Adrian Jeremy Carreon, I am an aspiring Software Developer mainly on Game Developing and Web Developing. <br><br>I am currently learning php, java and mysql database fundamentals hoping to be better than i ever was pertaining to my coding ability.<br><br>No, i am not a larper like them</p>
+<p data-importer="text" align="left">Hi, I am Adrian Jeremy Carreon, I am an aspiring Software Developer mainly on Game Developing and Web Developing. <br><br>I am currently learning php, java and mysql database fundamentals hoping to be better than i ever was pertaining to my coding ability.<br><br>Let's Larp guys !</p>
 
 ###
 
